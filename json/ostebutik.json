@@ -1,0 +1,41 @@
+{
+    "brianOstebutik": {
+        "katalog" [{
+            "varenavn": "Emmentaler",
+            "varenummer": 402,
+            "pris": {
+                "pris": 50,
+                "valuta": "DKK"
+            },
+            "antal": 1,
+            "beskrivelse": "Super fin ost..",
+            "lagerbeholdning": "501",
+            "billede": ["emmentaler.jpg", "emmentalerFraSiden.jpg"],
+            "tilbud": false
+        },{
+            "varenavn": "blåskimmel",
+            "varenummer": 404,
+            "pris": {
+                "pris": 100,
+                "valuta": "Dollars"
+            },
+            "antal": 1,
+            "beskrivelse": "Super fin ost..",
+            "lagerbeholdning": "45",
+            "billede": ["blaaskimmel.jpg", "blaaskimmel.jpg"],
+            "tilbud": false
+        },{
+            "varenavn": "brie",
+            "varenummer": 424,
+            "pris": {
+                "pris": 75,
+                "valuta": "euro"
+            },
+            "antal": 1,
+            "beskrivelse": "Super fin ost..",
+            "lagerbeholdning": "33",
+            "billede": ["brie.jpg", "brieFraiden.jpg"],
+            "tilbud": false
+        },]
+  }
+}
