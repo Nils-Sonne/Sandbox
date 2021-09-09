@@ -1,0 +1,38 @@
+/* {
+"name":"Nils", 
+"city":"Amager, Copenhagen",  
+"age": 28, 
+"car":"no car",
+"eyes":"blue",
+ }' */
+
+ {
+     "Nils":{             /* Opretter et objekt */ 
+         "alder": 28,
+         "køn": "Mand",
+         "Øjenfarve": "Blå",
+
+         "Højde": [       /* Opretter et array */
+         {
+             "højde":182,
+             "Måleenhed": "cm"
+         },
+        {
+             "Højde":1820,
+             "Måleenhed":"mm"
+         }
+        ],
+         "Fornavn": "Nils",
+         "Mellemnavn": "Sonne",
+         "Efternavn": "Andersen",
+         "Strømpebukser": "Sort"
+     }
+ },
+ 
+ {
+     "Kontakt": {
+         "email": "Sonne.andersen@gmail.com",
+         "telefon": 22616660,
+
+     }
+ }
